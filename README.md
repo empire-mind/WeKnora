@@ -424,7 +424,6 @@ make test
 
 Thanks to everyone who has contributed:
 
-[![Contributors](https://contrib.rocks/image?repo=Tencent/WeKnora)](https://github.com/Tencent/WeKnora/graphs/contributors)
 
 ## License
 
